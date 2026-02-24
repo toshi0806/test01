@@ -3,7 +3,7 @@
 ## Fruits
 - apple
 - orange
-- banana
+- blueberry
 
 ## Countries
 1. Japan
